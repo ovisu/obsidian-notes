@@ -150,5 +150,4 @@ Exemplo:
 - **Imagens ou GIFs**: Se for uma aplicação com interface gráfica, considere adicionar imagens ou GIFs demonstrando como o projeto funciona.
 - **Badges**: Você pode adicionar badges ao topo do README para mostrar status de builds, cobertura de testes ou outras informações relevantes (ex.: "Build status", "Last release", etc.).
 
-Esse template pode ser ajustado conforme as necessidades do seu projeto, mas ele cobre a estrutura básica de um bom `README.md`. Caso tenha mais dúvidas ou precise de ajuda para personalizar algum detalhe, é só avisar!
-```
+Esse template pode ser ajustado conforme as necessidades do seu projeto, mas ele cobre a estrutura básica de um bom `README.md`. Caso tenha mais dúvidas ou precise de ajuda para personalizar algum detalhe, é só avisar!.
